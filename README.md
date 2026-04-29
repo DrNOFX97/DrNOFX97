@@ -26,27 +26,20 @@ Multi-agent system combining web scraping, 54 seasons of historical data, and ad
 
 ---
 
-### 🎥 [YT2TXT](https://github.com/DrNOFX97/YT2TXT)
-**Universal Video Transcription System with Multi-LLM Support**
+### 🏙️ [Ligafaro](https://github.com/DrNOFX97/ligafaro)
+**Community Digital Platform for Faro**
 
-Professional transcription system supporting multiple AI providers and sources, with smart summaries and contextual chat.
+Full-stack platform connecting residents and visitors of Faro, Portugal, with news, events, forums, marketplace, and volunteering opportunities.
 
-- 🤖 **Multi-LLM**: OpenAI GPT, Anthropic Claude, Ollama, LM Studio
-- 📹 **Multiple Sources**: YouTube, Vimeo, local files (MP3, MP4, WAV, etc.)
-- 🌍 **99 Languages**: Auto-detection with OpenAI Whisper
-- 📝 **Smart Features**: AI summaries, contextual chat, SRT export
-- 🎨 **Dual Interface**: Beautiful web UI + powerful CLI
+- 📰 **Local News**: City news aggregation and sharing
+- 📅 **Events**: Community event calendar and discovery
+- 💬 **Forum**: Discussion and community engagement
+- 🏪 **Marketplace**: Local commerce and entrepreneurship
+- 🤝 **Volunteering**: Connect community members for good causes
+- 🤖 **AI Chatbot**: Intelligent virtual assistant
+- 🗺️ **Interactive Map**: Location-based community discovery
 
-**Tech Stack**: Python • Whisper • Flask • PyTorch • yt-dlp
-
----
-
-### 💬 [WhatsApp Bot](https://github.com/DrNOFX97/WhatsApp_Bot)
-**Automated WhatsApp Bot with Jupyter Integration**
-
-Automation bot for WhatsApp with notebook-based configuration and control.
-
-**Tech Stack**: Python • Jupyter Notebook • Automation
+**Tech Stack**: React • TypeScript • Node.js • Firebase
 
 ---
 
